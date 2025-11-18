@@ -1,4 +1,4 @@
-## Project 1 - Frontend Management System for ITS
+## Intelligent Tutoring System - Automatic Feedback Driven Coding Platform
 
 ### Getting Started
 
